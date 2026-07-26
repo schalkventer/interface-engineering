@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build"
+  },
+  "dependencies": {
+    "@andypf/json-viewer": "^2.8.0",
+    "@miletorix/vitepress-image-viewer": "^1.3.2",
+    "vitepress": "^1.6.4",
+    "vitepress-dynamic-sidebar": "^0.0.7"
+  }
+}
