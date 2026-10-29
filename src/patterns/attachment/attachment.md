@@ -1,8 +1,8 @@
 ---
-title: Attachment
+title: Attachments
 ---
 
-# Attachment
+# Attachments
 
 An attachment is a UI element representing a file associated with a message, document, task, or other piece of content.
 
