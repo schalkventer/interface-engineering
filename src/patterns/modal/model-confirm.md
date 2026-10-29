@@ -1,8 +1,8 @@
 ---
-title: Alert/Variants/Dialog
+title: Modal/Variants/Confirm
 ---
 
-# Alert Dialog
+# Modal Confirm
 
 An alert dialog is a modal interface that interrupts the user's current task to communicate something important and require an explicit response.
 

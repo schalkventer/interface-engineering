@@ -2,7 +2,6 @@
 title: Alert/Variants/Inline
 ---
 
-
 # Alert Inline
 
 Unlike a toast, an inline alert generally remains visible as part of the
