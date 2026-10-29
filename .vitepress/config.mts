@@ -21,17 +21,17 @@ const inner = withDynamicSidebar({
 
 export default defineConfig({
   ...inner,
-  // themeConfig: {
-  //   ...inner.themeConfig,
-  //   sidebar: inner.themeConfig.sidebar.map((x: any) => {
-  //     return {
-  //       ...x,
-  //       collapsed: false,
-  //       items: x.items.map((y: any) => ({
-  //         ...y,
-  //         collapsed: false,
-  //       })),
-  //     };
-  //   }),
-  // },
+  themeConfig: {
+    ...inner.themeConfig,
+    sidebar: inner.themeConfig.sidebar.map((x: any) => {
+      return {
+        ...x,
+        collapsed: false,
+        items: x.items.map((y: any) => ({
+          ...y,
+          collapsed: false,
+        })),
+      };
+    }),
+  },
 });

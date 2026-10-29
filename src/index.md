@@ -21,3 +21,9 @@ in applications that have little interface complexity such as landing pages,
 marketing sites, or simple content pages. In the case of the latter I would
 consider a completely different set of tools and approaches.
 
+## Overview
+
+At the moment this document is primarily organised around two core concepts:
+
+- Domain: How I go about making sense of what the interface is actually representing
+- Design: Visual patterns and patterns that can be used to represent the domain
