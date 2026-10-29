@@ -1,5 +1,5 @@
 ---
-title: Modal
+title: Design/Modal
 ---
 
 # Modal Confirm

@@ -1,5 +1,5 @@
 ---
-title: Avatars
+title: Design/Avatars
 ---
 
 An avatar is a compact visual representation of a person, organization, or automated agent. It usually takes the form of a profile photograph, illustration, icon, or initials.
@@ -65,18 +65,18 @@ Avatar groups provide social awareness. In collaborative software, they help ans
 
 ## Considerations
 
-- **Recognition**: Use consistent avatars for the same identity throughout the product           |
-- **Fallback**: Provide initials or an icon when an image is unavailable                      |
-- **Shape**: Keep shapes consistent within a given context                                 |
-- **Size**: Use larger avatars for profiles and smaller ones for dense lists              |
-- **Identity**: Display names where ambiguity could affect comprehension                      |
-- **Presence**: Accompany status colours with accessible text or labels                       |
-- **Groups**: Provide a way to discover all participants when the group is truncated        |
-- **Interaction**: Make clickable avatars keyboard accessible and clearly labelled               |
-- **Accessibility**: Avoid repeating names unnecessarily through redundant image alternative text  |
-- **Privacy**: Only display identity and availability information appropriate to the context |
+- **Recognition**: Use consistent avatars for the same identity throughout the product           
+- **Fallback**: Provide initials or an icon when an image is unavailable                      
+- **Shape**: Keep shapes consistent within a given context                                 
+- **Size**: Use larger avatars for profiles and smaller ones for dense lists              
+- **Identity**: Display names where ambiguity could affect comprehension                      
+- **Presence**: Accompany status colours with accessible text or labels                       
+- **Groups**: Provide a way to discover all participants when the group is truncated        
+- **Interaction**: Make clickable avatars keyboard accessible and clearly labelled               
+- **Accessibility**: Avoid repeating names unnecessarily through redundant image alternative text  
+- **Privacy**: Only display identity and availability information appropriate to the context 
 
-### Accessibility
+## Accessibility
 
 - A decorative avatar beside an already visible username can use empty image alternative text.
 - An avatar used as a profile link needs an accessible link name identifying the person.

@@ -1,5 +1,5 @@
 ---
-title: Badge
+title: Design/Badge
 ---
 
 # Badge

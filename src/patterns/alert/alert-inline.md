@@ -1,5 +1,5 @@
 ---
-title: Alert
+title: Design/Alert
 ---
 
 # Alert

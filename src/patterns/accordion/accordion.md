@@ -1,5 +1,5 @@
 ---
-title: Other/Accordion
+title: Accordion
 ---
 # Accordion
 
