@@ -13,7 +13,7 @@ const IGNORE_FOLDERS = [
 ];
 
 const inner = withDynamicSidebar({
-  title: "Interface Engineering",
+  title: "👷‍♂️ Interface Engineering",
   srcDir: "./src",
   cleanUrls: true,
   ignore: IGNORE_FOLDERS,
