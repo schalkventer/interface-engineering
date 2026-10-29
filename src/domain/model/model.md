@@ -38,7 +38,8 @@ implementation logic separated from `.schema.ts`/`.helper.ts` files or `schema`
 and `helper` folders (#1).
 
 In fact, I usually start creating these schemas directly in Figma using a
-code-block snippet as a TypeScript `type` with extensive `JSDoc` comments.
+code-block snippet as a TypeScript `type` with extensive `JSDoc` comments,
+before I start doing any design or wireframing.
 
 The schema files should always express data in a manner that can be serialized
 into strings and passed around between API boundaries. This means no usage of
