@@ -1,5 +1,5 @@
 ---
-title: Accordion
+title: Design/Accordion
 ---
 # Accordion
 
