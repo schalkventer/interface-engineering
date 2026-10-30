@@ -25,5 +25,7 @@ consider a completely different set of tools and approaches.
 
 At the moment this document is primarily organised around two core concepts:
 
-- Domain: How I go about making sense of what the interface is actually representing
+- Model: How I go about making sense of what the interface is actually representing
 - Design: Visual patterns and patterns that can be used to represent the domain
+
+I've also include a section on resources and books that have influenced my thinking in this area.

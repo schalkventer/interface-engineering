@@ -1,5 +1,5 @@
 ---
-title: Domain/Model
+title: Model/Schemas
 ---
 
 # Data Modelling
