@@ -23,6 +23,14 @@ export default defineConfig({
   ...inner,
   themeConfig: {
     ...inner.themeConfig,
+
+    socialLinks: [
+      {
+        icon: "github",
+        link: "https://github.com/schalkventer/interface-engineering",
+      },
+    ],
+
     sidebar: inner.themeConfig.sidebar.map((x: any) => {
       return {
         ...x,
