@@ -1,5 +1,5 @@
 ---
-title: Design/Badge
+title: Presentation/Badge
 ---
 
 # Badge

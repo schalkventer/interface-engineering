@@ -1,5 +1,5 @@
 ---
-title: Design/Sticky
+title: Presentation/Sticky
 ---
 
 # Sticky

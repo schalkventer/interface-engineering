@@ -1,5 +1,5 @@
 ---
-title: Design/Modal
+title: Presentation/Modal
 ---
 
 # Modal Confirm

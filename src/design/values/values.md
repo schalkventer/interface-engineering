@@ -1,5 +1,5 @@
 ---
-title: Design/Values
+title: Presentation/Values
 ---
 
 # Values

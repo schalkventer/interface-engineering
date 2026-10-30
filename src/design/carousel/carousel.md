@@ -1,5 +1,5 @@
 ---
-title: Design/Carousel
+title: Presentation/Carousel
 ---
 
 # Carousel

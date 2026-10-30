@@ -1,5 +1,5 @@
 ---
-title: Design/Beam
+title: Presentation/Beam
 ---
 
 # Beam
