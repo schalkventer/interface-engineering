@@ -4,7 +4,9 @@ title: Presentation/Alert
 
 # Alert
 
-An alert is a visually prominent message that draws attention to important information, a change in status, a potential problem, or an action the user needs to take.
+**An alert is a visually prominent message that draws attention to important information, a change in status, a potential problem, or an action the user needs to take.**
+
+![alt text](.images/1793348130687.png)
 
 Unlike a toast, an inline alert generally remains visible as part of the
 interface. Unlike an alert dialog, it doesn't block the user's workflow.

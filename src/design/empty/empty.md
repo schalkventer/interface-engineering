@@ -4,7 +4,9 @@ title: Presentation/Empty
 
 # Empty
 
-An empty state is an interface displayed when a section has no content to show.
+**An empty state is an interface displayed when a section has no content to show.**
+
+![alt text](.images/1793347951686.png)
 
 Its purpose is to explain why nothing appears and, where appropriate, help the user take the next step.
 

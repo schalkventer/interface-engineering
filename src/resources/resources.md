@@ -6,6 +6,8 @@ title: Resources/Books
 
 Most of by reading notes are at: [https://github.com/schalkventer/reading-notes](https://github.com/schalkventer/reading-notes)
 
+![alt text](.images/1793348209566.png)
+
 ## Software
 
 - A Philosophy of Software Design (2018)

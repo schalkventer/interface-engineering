@@ -1,10 +1,12 @@
 ---
-title: Presentation/Badge
+title: Presentation/Chip
 ---
 
-# Badge
+# Chip
 
-A badge is a small visual label used to communicate a status, category, characteristic, count, or distinction associated with another interface element.
+![alt text](.images/1793348051718.png)
+
+**A badge is a small visual label used to communicate a status, category, characteristic, count, or distinction associated with another interface element.**
 
 Badges make important metadata easy to recognise without requiring users to read longer descriptions.
 

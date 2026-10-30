@@ -4,7 +4,9 @@ title: Presentation/Attachments
 
 # Attachments
 
-An attachment is a UI element representing a file associated with a message, document, task, or other piece of content.
+![alt text](.images/1793348022135.png)
+
+**An attachment is a UI element representing a file associated with a message, document, task, or other piece of content.**
 
 It typically displays a filename, file type, size, icon or thumbnail, and relevant actions.
 

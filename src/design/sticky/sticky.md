@@ -4,7 +4,9 @@ title: Presentation/Sticky
 
 # Sticky
 
-A Sticky element keeps an interface element visible as the user scrolls. The element normally participates in the page layout, then becomes anchored to the viewport once it reaches a specified threshold.
+**A Sticky element keeps an interface element visible as the user scrolls. The element normally participates in the page layout, then becomes anchored to the viewport once it reaches a specified threshold.**
+
+![alt text](.images/1793348174766.png)
 
 - Sticky navigation bars
 - Persistent booking or checkout panels

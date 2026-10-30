@@ -13,7 +13,7 @@ const IGNORE_FOLDERS = [
 ];
 
 const inner = withDynamicSidebar({
-  title: "👷‍♂️ Interface Engineering",
+  title: "🧙‍♂️ Interface Engineering",
   srcDir: "./src",
   cleanUrls: true,
   ignore: IGNORE_FOLDERS,
@@ -21,6 +21,34 @@ const inner = withDynamicSidebar({
 
 export default defineConfig({
   ...inner,
+
+  lang: "en-US",
+  description: "A mostly reasonable approach to designing software interfaces",
+
+  head: [
+    [
+      "meta",
+      {
+        property: "og:image",
+        content: "https://interface.engineering/preview.png",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:card",
+        content: "summary_large_image",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:image",
+        content: "https://interface.engineering/preview.png",
+      },
+    ],
+  ],
+
   themeConfig: {
     ...inner.themeConfig,
 

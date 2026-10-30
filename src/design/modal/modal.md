@@ -4,7 +4,9 @@ title: Presentation/Modal
 
 # Modal Confirm
 
-An alert dialog is a modal interface that interrupts the user's current task to communicate something important and require an explicit response.
+An dialog is a modal interface that interrupts the user's current task to communicate something important and require an explicit response.
+
+![alt text](.images/1793347994158.png)
 
 It is particularly useful for consequential actions such as deleting information, discarding unsaved changes, or changing important account settings.
 

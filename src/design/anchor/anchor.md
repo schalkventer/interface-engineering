@@ -4,7 +4,9 @@ title: Presentation/Anchor
 
 # Anchor
 
-An Anchor component provides navigation between sections of the same page, typically through a table of contents.
+**An Anchor component provides navigation between sections of the same page, typically through a table of contents.**
+
+![alt text](.images/1793347849094.png)
 
 - Table of contents (TOC)
 - Scrollspy navigation

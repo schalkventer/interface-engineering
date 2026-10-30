@@ -3,7 +3,10 @@ title: Presentation/Accordion
 ---
 # Accordion
 
-An accordion is a collection of expandable sections. Each section has a heading or trigger that reveals or hides associated content.
+**An accordion is a collection of expandable sections. Each section has a
+heading or trigger that reveals or hides associated content.**
+
+![alt text](.images/1793347793655.png)
 
 Accordions help people explore information without displaying everything simultaneously. They're commonly used for FAQs, product details, settings, and documentation.
 

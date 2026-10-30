@@ -2,7 +2,9 @@
 title: Presentation/Avatars
 ---
 
-An avatar is a compact visual representation of a person, organization, or automated agent. It usually takes the form of a profile photograph, illustration, icon, or initials.
+![alt text](.images/1793348037862.png)
+
+**An avatar is a compact visual representation of a person, organization, or automated agent. It usually takes the form of a profile photograph, illustration, icon, or initials.**
 
 Avatars make identities easier to recognise and help users understand who is participating in a conversation, working on a document, or responsible for an action.
 
