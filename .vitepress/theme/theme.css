@@ -9,6 +9,27 @@ img {
   }
 }
 
+img.favicon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  vertical-align: -3px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 0;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+li img.favicon {
+  width: 16px;
+  height: 16px;
+  vertical-align: -2px;
+  margin-right: 4px;
+}
+
 img:has(+ img),
 img + img {
   margin-right: 0.5rem;

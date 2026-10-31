@@ -18,7 +18,9 @@ Accordions help people explore information without displaying everything simulta
 
 ## Examples
 
-### DeepSource
+---
+
+### ![](./.images/deepsource-favicon.png){.favicon} DeepSource
 
 FAQ Accordions
 
@@ -29,7 +31,9 @@ FAQ Accordions
 - The open section is visually distinguished from closed sections.
 - The pattern helps prospective customers investigate pricing and billing concerns.
 
-### Notion
+---
+
+### ![](./.images/notion-favicon.png){.favicon} Notion
 
 Nested toggle lists within the Notion editor.
 
@@ -40,9 +44,12 @@ Nested toggle lists within the Notion editor.
 - Multiple sections can remain expanded simultaneously.
 - Users control information density while writing and reading.
 
-Notion calls these toggle lists. They're related to accordions but are independent disclosures, rather than necessarily a single accordion widget.
+Notion calls these toggle lists. They're related to accordions but are
+independent disclosures, rather than necessarily a single accordion widget.
 
-### GitHub
+---
+
+### ![](./.images/github-favicon.png){.favicon} GitHub
 
 GitHub's rendered Markdown disclosure control.
 

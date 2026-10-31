@@ -3,7 +3,7 @@
 
 ![alt text](.images/1793359093273.png)
 
-**A ~~mostly~~ reasonable approach to designing software interfaces**
+**A mostly reasonable approach to designing software interfaces**
 
 ## Overview
 
