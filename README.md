@@ -1,29 +1,68 @@
 # Interface Engineering
 
-**A mostly reasonable approach to designing software interfaces**
+### 👋 Introduction
 
-## Introduction
+**This document is maintained by myself, [Schalk
+Venter](https://schalkventer.me/).**
 
-This document is maintained by myself, [Schalk
-Venter](https://schalkventer.me/). A software engineer and interaction designer
-based in Cape Town, South Africa. I've been designing, maintaining and leading
-teams that work on extremely interactive and highly stateful user-facing
-interfaces over the past decade. 
+I am a product designer and software engineer based in Cape Town, South Africa.
+I've been designing, maintaining and leading teams that work on extremely
+interactive and highly stateful user-facing interfaces over the past decade. 
 
-This document aims to be a living, evolving document, in which I attempt to
-codify and share some personal approaches and heuristics I've developed over
-this period. The following effectively outlines how I approach designing,
-extending and/or building user-facing project that has significant state and
-interaction complexity, regardless of tooling and tech-stack that might be used.
+### 🎯 Purpose
 
-To that end it is important to note that this approach might not work that well
-in applications that have little interface complexity such as landing pages,
-marketing sites, or simple content pages. In the case of the latter I would
-consider a completely different set of tools and approaches.
+**The purpose of this document is to be a living, evolving artefact, in which I
+codify and share some personal approaches and heuristics I've developed over my
+career.** 
 
-## Overview
+It effectively outlines how I approach designing, extending and/or building user
+interfaces that have significant state and interaction complexity.
 
-At the moment this document is primarily organised around two core concepts:
+I generally find it tech stack and tooling agnostic.
 
-- Domain: How I go about making sense of what the interface is actually representing
-- Design: Visual patterns and patterns that can be used to represent the domain
+### 🧠 Bias
+
+**It is important to note that this approach might not work that well for
+interfaces that have little complexity such as landing pages, marketing sites,
+or simple content pages.**
+
+I've found that the expectation of high levels of interactivity has a quality of
+its own, influencing the entire way in which I approach the projects. Given
+this, I don't know how well this would scale for simpler interfaces.
+
+## Artificial Intelligence
+
+### 🔮 Future
+
+`TODO`
+
+### 🤖 Disclaimer
+
+**English is not my native language.**
+
+So I do rely on AI to help me fix grammar and weird sentence structures.
+However, this document (while I hope is helpful to others) is primarily intended
+for my own use and reflection. 
+
+This means that I try and keep as high level of signal-to-noise/intent as
+possible, which means that generative AI actually gets in the way, since it
+loves to add extra verbage and fluff.
+
+## Structure
+
+I'm not particularly set on the structure that this document should adhere to,
+however it does seems that the following categories are emerging organically as
+I add to the document.
+
+### 🧠 Process
+
+**How I go about making sense of and documenting the underlying concept that the
+interface actually represent.**
+
+When making value judgments about an interface, I generally find myself
+primarily concerned with whether the interface itself accurate represents the
+actual relationship and structure underneath it.
+
+Granted, even the way of modelling the underlying relationships and structures
+can be flawed, so if the underlying model is incorrect, then the very measure
+you use to determine whether an interface is good/bad is calibrated incorrectly.

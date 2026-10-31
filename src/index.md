@@ -2,7 +2,7 @@
 
 ![alt text](.images/1793359093273.png)
 
-**A subjective, mostly reasonable approach to user interfaces**
+**A personal (mostly reasonable) approach to user interfaces**
 
 ## Overview
 
