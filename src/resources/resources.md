@@ -1,5 +1,5 @@
 ---
-title: Resources/Books
+title: Resources/📚 Books
 ---
 
 # Resources

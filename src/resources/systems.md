@@ -1,5 +1,5 @@
 ---
-title: Resources/Systems
+title: Resources/💻 Systems
 ---
 
 # Systems

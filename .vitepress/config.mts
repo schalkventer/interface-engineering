@@ -63,10 +63,10 @@ export default defineConfig({
       return {
         ...x,
         collapsed: false,
-        items: x.items.map((y: any) => ({
-          ...y,
-          collapsed: false,
-        })),
+        // items: x.items?.map((y: any) => ({
+        //   ...y,
+        //   collapsed: false,
+        // })),
       };
     }),
   },

@@ -1,13 +1,10 @@
 # Interface Engineering
 
-
 ![alt text](.images/1793359093273.png)
 
-**A mostly reasonable approach to designing software interfaces**
+**A subjective, mostly reasonable approach to user interfaces**
 
 ## Overview
-
-![alt text](.images/1793349086249.png)
 
 ### 👋 Introduction
 
@@ -17,6 +14,8 @@ Venter](https://schalkventer.me/).**
 I am a product designer and software engineer based in Cape Town, South Africa.
 I've been designing, maintaining and leading teams that work on extremely
 interactive and highly stateful user-facing interfaces over the past decade. 
+
+![alt text](.images/1793349086249.png)
 
 ### 🎯 Purpose
 
@@ -39,9 +38,11 @@ I've found that the expectation of high levels of interactivity has a quality of
 its own, influencing the entire way in which I approach the projects. Given
 this, I don't know how well this would scale for simpler interfaces.
 
-
-
 ## Artificial Intelligence
+
+### 🔮 Future
+
+`TODO`
 
 ![alt text](.images/1793359687031.png)
 
@@ -59,13 +60,13 @@ loves to add extra verbage and fluff.
 
 ## Structure
 
-![alt text](.images/1793347496181.png)
-
 I'm not particularly set on the structure that this document should adhere to,
 however it does seems that the following categories are emerging organically as
-I add to the document:
+I add to the document.
 
-### 🧠 Model
+![alt text](.images/1793347496181.png)
+
+### 🧠 Process
 
 **How I go about making sense of and documenting the underlying concept that the
 interface actually represent.**
@@ -78,7 +79,7 @@ Granted, even the way of modelling the underlying relationships and structures
 can be flawed, so if the underlying model is incorrect, then the very measure
 you use to determine whether an interface is good/bad is calibrated incorrectly.
 
-### 🎨  Presentation
+### 🎨  Patterns
 
 Below is a tentative mapping of how I tend to reason about common patterns in
 interface design.
